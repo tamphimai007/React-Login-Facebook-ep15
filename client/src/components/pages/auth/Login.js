@@ -208,7 +208,7 @@ export default function Login() {
               </Button>
 
               <FacebookLogin
-                appId="621202626615399"
+                appId="Update AppID Here"
                 autoLoad={false}
                 fields="name,email,picture"
                 callback={responseFacebook}
