@@ -5,7 +5,7 @@ const { token } = require("morgan");
 
 const { notifyLine, getIPClient } = require("../Functions/Notify");
 
-const tokenLine = "VP8sOSbRX60Hz7tX9onIsKrlDythtXZIc3QPxJUuHaf";
+const tokenLine = "Update LINE Token Here";
 
 exports.register = async (req, res) => {
   try {
